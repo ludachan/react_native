@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330322913739",
+    "firebase_url": "https://fcm-test-41ceb.firebaseio.com",
+    "project_id": "fcm-test-41ceb",
+    "storage_bucket": "fcm-test-41ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330322913739:android:74159f99d45839cf",
+        "android_client_info": {
+          "package_name": "com.bloodtalkdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330322913739-mdcmf365cgh9kgv3g6566g4aj8o6325a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLwla3_q9T00nOXn6pboI5STnUfa7OhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330322913739-mdcmf365cgh9kgv3g6566g4aj8o6325a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

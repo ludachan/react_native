@@ -1,0 +1,30 @@
+{
+  "name": "bloodtalk_client",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "fcm-node": "^1.5.1",
+    "firebase": "^6.0.4",
+    "firebase-admin": "^8.0.0",
+    "json": "^9.0.6",
+    "json-server": "^0.15.0",
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "react-native-firebase": "^5.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
